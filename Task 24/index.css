@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(225, 241, 255);
+}
+
+.container{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+}
+
+.modal-bg{
+    background-color: rgba(0,0,0,0.5);
+}
+
+.modal-dialog{
+    width: 25vw;
+}
+
+@media screen and (max-width: 576px) {
+    
+    .modal-dialog{
+        width: 90vw;
+        margin: auto;
+    }
+}
