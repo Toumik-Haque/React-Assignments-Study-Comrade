@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(206, 212, 227);
+}
+
+.navbar-brand{
+    color: orange;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.nav-container{
+    height: 45px;
+}
+
+
+@media screen and (max-width: 576px) {
+    
+    .card-container{
+        width: 90vw;
+        margin: auto;
+        row-gap: 30px;
+    }
+
+    .searchbox{
+        margin-bottom: 20px;
+    }
+}
