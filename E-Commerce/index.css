@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(225, 241, 255);
+}
+
+/* .navbar-toggler,
+.navbar-toggler:focus,
+.navbar-toggler:active {
+    box-shadow: none;
+    border: none !important;
+    color: white !important;
+} */
+
+/* @media screen and (min-screen: 993px) {
+    .pc-nav{
+        display: flex;
+        justify-content: start;
+    }
+    
+} */
+
+
+
+@media screen and (max-width: 576px) {
+
+    .products-card {
+        margin: auto;
+    }
+}
