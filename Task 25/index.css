@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(206, 212, 227);
+}
+
+.card{
+    width: 420px;
+}
+
+h5{
+    line-height: 1.5;
+    background-color: antiquewhite;
+    padding: 10px
+}
